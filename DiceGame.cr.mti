@@ -1,0 +1,161 @@
+{C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity controller
+-- Compiling architecture Behavioral of controller
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath_TB
+-- Compiling architecture Behavioral of datapath_TB
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd(59): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd(64): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comparator_TB
+-- Compiling architecture Behavioral of comparator_TB
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd(60): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_TB
+-- Compiling architecture Behavioral of counter_TB
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/fa_cascaded.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/fa_cascaded.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fa_cascaded
+-- Compiling architecture Behavioral of fa_cascaded
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/data_path.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/data_path.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity data_path
+-- Compiling architecture Behavioral of data_path
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity Point_TB
+-- Compiling architecture Behavioral of Point_TB
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd(59): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controller_tb
+-- Compiling architecture Behavioral of controller_tb
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd(47): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd(56): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd(58): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity Test_Logic_TB
+-- Compiling architecture Behavioral of Test_Logic_TB
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd(45): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd(47): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Test_Logic
+-- Compiling architecture behavioral of Test_Logic
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/adder_TB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/adder_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity adder_TB
+-- Compiling architecture Behavioral of adder_TB
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator
+-- Compiling architecture Behavioral of comparator
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity counter
+-- Compiling architecture Behavioral of counter
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/full_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/full_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity full_adder
+-- Compiling architecture rtl of full_adder
+
+} {} {}} {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Point
+-- Compiling architecture Behavioral of Point
+
+} {} {}}

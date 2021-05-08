@@ -1,0 +1,81 @@
+# Compile of adder_TB.vhd was successful.
+# Compile of comparator.vhd was successful.
+# Compile of comparator_TB.vhd was successful with warnings.
+# Compile of controller.vhd was successful.
+# Compile of Controller_tb.vhd was successful with warnings.
+# Compile of counter.vhd was successful.
+# Compile of counter_TB.vhd was successful with warnings.
+# Compile of data_path.vhd was successful.
+# Compile of datapath_TB.vhd was successful with warnings.
+# Compile of fa_cascaded.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of Point.vhd was successful.
+# Compile of Point_TB.vhd was successful with warnings.
+# Compile of Test_Logic.vhd was successful.
+# Compile of Test_Logic_TB.vhd was successful with warnings.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.comparator_tb
+# vsim -gui work.comparator_tb 
+# Start time: 18:30:40 on Dec 05,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.comparator_tb(behavioral)
+# Loading work.comparator(behavioral)
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:C:/mtitcl/vsim/qstructure.tc_:2478: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position end  sim:/comparator_tb/clk
+add wave -position end  sim:/comparator_tb/Eq
+add wave -position end  sim:/comparator_tb/Sp
+add wave -position end  sim:/comparator_tb/CA
+add wave -position end  sim:/comparator_tb/CB
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/ComparatorTB_wave.do}
+vsim -gui work.controller_tb
+# End time: 18:53:42 on Dec 05,2020, Elapsed time: 0:23:02
+# Errors: 0, Warnings: 2
+# vsim -gui work.controller_tb 
+# Start time: 18:53:42 on Dec 05,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.controller_tb(behavioral)
+# Loading work.controller(behavioral)
+# Loading work.data_path(behavioral)
+# Loading work.counter(behavioral)
+# Loading work.fa_cascaded(behavioral)
+# Loading work.full_adder(rtl)
+# Loading work.point(behavioral)
+# Loading work.comparator(behavioral)
+# Loading work.test_logic(behavioral)
+do Controller_wave.do
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 18:55:02 on Dec 05,2020, Elapsed time: 0:01:20
+# Errors: 0, Warnings: 1

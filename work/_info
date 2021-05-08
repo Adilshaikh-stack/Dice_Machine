@@ -1,0 +1,662 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Eadder_tb
+Z0 w1607202818
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 90
+Z6 dC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project
+Z7 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/adder_TB.vhd
+Z8 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/adder_TB.vhd
+l0
+Z9 L16 1
+V[o@HE>n^44CnMkg@0;;aj0
+!s100 ?n5_38=7eKIEWcojPD<jQ1
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1607207431
+!i10b 1
+Z12 !s108 1607207431.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/adder_TB.vhd|
+Z14 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/adder_TB.vhd|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 8 adder_tb 0 22 [o@HE>n^44CnMkg@0;;aj0
+!i122 90
+l37
+L20 32
+V18eL>I2WA[k78HMh<_E603
+!s100 @1[Thd_SheTJ;deeNHZiK3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Ecomparator
+Z17 w1607215192
+R4
+R5
+!i122 91
+R6
+Z18 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator.vhd
+Z19 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator.vhd
+l0
+Z20 L14 1
+VL]llSg:cQPjZR[BJA@2192
+!s100 7o=QicBTLZglKDRM3BGYh2
+R10
+32
+R11
+!i10b 1
+R12
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator.vhd|
+Z22 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+DEx4 work 10 comparator 0 22 L]llSg:cQPjZR[BJA@2192
+!i122 91
+l28
+L26 14
+V7LLF1HP6l:PC`XC^Ybk8W2
+!s100 2Dof:HYjP^MEZCK8hgK<m1
+R10
+32
+R11
+!i10b 1
+R12
+R21
+R22
+!i113 1
+R15
+R16
+Ecomparator_tb
+Z23 w1607215185
+R1
+R2
+R4
+R5
+!i122 92
+R6
+Z24 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd
+Z25 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd
+l0
+Z26 L15 1
+VhXWz4kjRJ;IhA[bSA<fJ_3
+!s100 j@5j@2egS@ia]W2B@McIG3
+R10
+32
+R11
+!i10b 1
+R12
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd|
+Z28 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/comparator_TB.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R1
+R2
+R4
+R5
+DEx4 work 13 comparator_tb 0 22 hXWz4kjRJ;IhA[bSA<fJ_3
+!i122 92
+l36
+Z29 L19 44
+V9D=6eiR;MjelD0mACN<HN1
+!s100 f;JQ@8bFj@6HZf0eKDDGo1
+R10
+32
+R11
+!i10b 1
+R12
+R27
+R28
+!i113 1
+R15
+R16
+Econtroller
+Z30 w1607205334
+R4
+R5
+!i122 93
+R6
+Z31 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/controller.vhd
+Z32 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/controller.vhd
+l0
+R20
+VhjM[<F43_JGo`zG_d<T=02
+!s100 m73[:eMD1e5R92^:JXYzc3
+R10
+32
+R11
+!i10b 1
+R12
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/controller.vhd|
+Z34 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/controller.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+DEx4 work 10 controller 0 22 hjM[<F43_JGo`zG_d<T=02
+!i122 93
+l64
+L29 100
+Vo1h[Kk?W>dQ=FnLNRkUZ?0
+!s100 ;Yd8KcaIWaj90QcP9WA7h3
+R10
+32
+R11
+!i10b 1
+R12
+R33
+R34
+!i113 1
+R15
+R16
+Econtroller_tb
+Z35 w1607215175
+R1
+R2
+R3
+R4
+R5
+!i122 94
+R6
+Z36 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd
+Z37 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd
+l0
+R9
+VSLW>Ghg0eD31U7@XHznZd2
+!s100 loJS3fIkiOL;ZZ0Yaa:G73
+R10
+32
+Z38 !s110 1607207432
+!i10b 1
+Z39 !s108 1607207432.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd|
+Z41 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Controller_tb.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 13 controller_tb 0 22 SLW>Ghg0eD31U7@XHznZd2
+!i122 94
+l39
+L20 44
+VfhYL7R7d6gTHd>0:T:lTP2
+!s100 CWES8:JoPJ@jo:fMUoRCh1
+R10
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R15
+R16
+Ecounter
+Z42 w1607212846
+R4
+R5
+!i122 95
+R6
+Z43 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter.vhd
+Z44 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter.vhd
+l0
+Z45 L13 1
+V>;l2@d>5d`dk2[Z>MMBIn0
+!s100 5f=nWEzR:S6h997FGY8]M3
+R10
+32
+R38
+!i10b 1
+R39
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter.vhd|
+Z47 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+DEx4 work 7 counter 0 22 >;l2@d>5d`dk2[Z>MMBIn0
+!i122 95
+l30
+L25 31
+V44Ag=F3UIl8]@ASnUBR681
+!s100 0@a;6AQU1XTIj1bzJZ=ae3
+R10
+32
+R38
+!i10b 1
+R39
+R46
+R47
+!i113 1
+R15
+R16
+Ecounter_tb
+Z48 w1607213021
+R3
+Z49 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R4
+R5
+!i122 96
+R6
+Z50 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd
+Z51 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd
+l0
+Z52 L18 1
+V`fTSdKnmJjOoAfQF7Nfk62
+!s100 RnLj;B@@z<]S3EB17R`L30
+R10
+32
+R38
+!i10b 1
+R39
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd|
+Z54 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/counter_TB.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R3
+R49
+R4
+R5
+DEx4 work 10 counter_tb 0 22 `fTSdKnmJjOoAfQF7Nfk62
+!i122 96
+l41
+L22 45
+V9X?MShSWSS2mMASi:L6GE0
+!s100 YNLI5I<Yh64?g^zJj]8m12
+R10
+32
+R38
+!i10b 1
+R39
+R53
+R54
+!i113 1
+R15
+R16
+Edata_path
+Z55 w1607203214
+R4
+R5
+!i122 97
+R6
+Z56 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/data_path.vhd
+Z57 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/data_path.vhd
+l0
+R20
+V5X=Sf]DC_R6L_=VDjSjG73
+!s100 XOj7P<`AZ`8`RX<e2[HCE2
+R10
+32
+R38
+!i10b 1
+R39
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/data_path.vhd|
+Z59 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/data_path.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+DEx4 work 9 data_path 0 22 5X=Sf]DC_R6L_=VDjSjG73
+!i122 97
+l89
+L35 65
+Vj?0eeWGa662IGMHGkSa=E1
+!s100 A]EiMXIo;BjPYh4;aC5e@2
+R10
+32
+R38
+!i10b 1
+R39
+R58
+R59
+!i113 1
+R15
+R16
+Edatapath_tb
+Z60 w1607213894
+R3
+R49
+R4
+R5
+!i122 98
+R6
+Z61 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd
+Z62 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd
+l0
+R52
+VF1Yo?dnS[nhmI[Ann>kMU2
+!s100 H7]`LZQPJGdclMZWNb=YT1
+R10
+32
+Z63 !s110 1607207433
+!i10b 1
+R39
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd|
+Z65 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/datapath_TB.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R3
+R49
+R4
+R5
+DEx4 work 11 datapath_tb 0 22 F1Yo?dnS[nhmI[Ann>kMU2
+!i122 98
+l50
+L22 49
+VVQ2@<9FIbHmj5hmN8znR;3
+!s100 AX1:7j2OU5mL:H_B3EYk^3
+R10
+32
+R63
+!i10b 1
+R39
+R64
+R65
+!i113 1
+R15
+R16
+Efa_cascaded
+Z66 w1607203256
+R4
+R5
+!i122 99
+R6
+Z67 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/fa_cascaded.vhd
+Z68 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/fa_cascaded.vhd
+l0
+R45
+VXN8RNj=Q1?le=83RB4??S0
+!s100 3cnE`?`j4]iS?_N7_g6md2
+R10
+32
+R63
+!i10b 1
+Z69 !s108 1607207433.000000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/fa_cascaded.vhd|
+Z71 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/fa_cascaded.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+DEx4 work 11 fa_cascaded 0 22 XN8RNj=Q1?le=83RB4??S0
+!i122 99
+l35
+L26 18
+VPUKLbCDTBH7igiYfRHn=o3
+!s100 lYlg^iFS0diNSM28BHc@K2
+R10
+32
+R63
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R15
+R16
+Efull_adder
+Z72 w1607214381
+R3
+R4
+R5
+!i122 100
+R6
+Z73 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/full_adder.vhd
+Z74 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/full_adder.vhd
+l0
+R20
+V?<5`LdHaX1PeaHa:z5IMe3
+!s100 af<TAb8=:flzdRH817iVj3
+R10
+32
+R63
+!i10b 1
+R69
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/full_adder.vhd|
+Z76 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/full_adder.vhd|
+!i113 1
+R15
+R16
+Artl
+R3
+R4
+R5
+DEx4 work 10 full_adder 0 22 ?<5`LdHaX1PeaHa:z5IMe3
+!i122 100
+l32
+L26 16
+VeNZGmz=N8[XC@z8OSccW=1
+!s100 O1=1ONdVP6TU_XA_:Q=W:1
+R10
+32
+R63
+!i10b 1
+R69
+R75
+R76
+!i113 1
+R15
+R16
+Epoint
+Z77 w1607214830
+R4
+R5
+!i122 101
+R6
+Z78 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point.vhd
+Z79 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point.vhd
+l0
+R20
+Vk46zO?2YJ=?@]^MfA0N7A3
+!s100 eTcLGN^2b:PPIf[;jhS_D0
+R10
+32
+R63
+!i10b 1
+R69
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point.vhd|
+Z81 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+DEx4 work 5 point 0 22 k46zO?2YJ=?@]^MfA0N7A3
+!i122 101
+l28
+L26 12
+VGA5YW7828J4g9aLh5z6L42
+!s100 74S;8=D0_BR_ah35Hz6=N2
+R10
+32
+R63
+!i10b 1
+R69
+R80
+R81
+!i113 1
+R15
+R16
+Epoint_tb
+Z82 w1607214912
+R3
+R49
+R4
+R5
+!i122 102
+R6
+Z83 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd
+Z84 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd
+l0
+R26
+V5h9_:jNeSV@HhkR^3c6:f1
+!s100 aAURB`bHSD[[[OoVQ197l1
+R10
+32
+R63
+!i10b 1
+R69
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd|
+Z86 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Point_TB.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R3
+R49
+R4
+R5
+DEx4 work 8 point_tb 0 22 5h9_:jNeSV@HhkR^3c6:f1
+!i122 102
+l40
+R29
+VFG32`1UoLgNo0@YcF]2`j1
+!s100 l^DTDmcRHQL0E<6kRUhd^0
+R10
+32
+R63
+!i10b 1
+R69
+R85
+R86
+!i113 1
+R15
+R16
+Etest_logic
+Z87 w1607215032
+R3
+R4
+R5
+!i122 103
+R6
+Z88 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic.vhd
+Z89 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic.vhd
+l0
+R9
+VS50jWELkYkd`26RNPfPJA0
+!s100 QY7?BgHiMH1^3RdF]3GoC2
+R10
+32
+R63
+!i10b 1
+R69
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic.vhd|
+Z91 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R3
+R4
+R5
+DEx4 work 10 test_logic 0 22 S50jWELkYkd`26RNPfPJA0
+!i122 103
+l32
+L28 22
+V=`POTRWm]K?8la6PQPKGl2
+!s100 b^hkiO@lPl]F5`F1>J_c>2
+R10
+32
+R63
+!i10b 1
+R69
+R90
+R91
+!i113 1
+R15
+R16
+Etest_logic_tb
+Z92 w1607215117
+R3
+R49
+R4
+R5
+!i122 104
+R6
+Z93 8C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd
+Z94 FC:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd
+l0
+R9
+Vji>WbhaEWfD9aGNliV?:_2
+!s100 `QUX8E9Z[Z@lR?IKB7Mo83
+R10
+32
+Z95 !s110 1607207434
+!i10b 1
+Z96 !s108 1607207434.000000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd|
+Z98 !s107 C:/Users/madil/Desktop/Dal documents/4thYear/1stSemester/Final_project/Test_Logic_TB.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R3
+R49
+R4
+R5
+Z99 DEx4 work 13 test_logic_tb 0 22 ji>WbhaEWfD9aGNliV?:_2
+!i122 104
+l37
+Z100 L20 35
+Z101 V]O6I<kzGB23^]PAOVJ`:T1
+Z102 !s100 86VR2OMaRN^KQOj5[a>D]2
+R10
+32
+R95
+!i10b 1
+R96
+R97
+R98
+!i113 1
+R15
+R16
