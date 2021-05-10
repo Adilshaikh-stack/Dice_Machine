@@ -3,7 +3,7 @@ The project report focuses on the design of a DICE game simulated on using the S
 
 The project main aim is to create a DICE game in VHDL and the implementation to be for an FPGA platform. There are set guidelines that need to be followed whilst implementing this project as the target. We are required to simulate the Dice machine through ModelSim. The DICE game also follows set constraints to win, lose and draw which will be further elaborated in the Design section.
 
-The implementation of the number DICE game enables us to further the understanding of RTL design, system level optimization, input & output interfaces, and digital hardware development. The objective is to provide a design flow chart and state machine schematic for the DICE game which is provided later in the report however this enables us to gain insight as to how these designs can be translated into hardware implementation or in our case hardware implementation via simulation
+The implementation of the number DICE game enables us to further the understanding of RTL design, system level optimization, input & output interfaces, and digital hardware development. However this enables us to gain insight as to how these designs can be translated into hardware implementation or in our case hardware implementation via simulation
 
 # Test
 
