@@ -5,7 +5,7 @@ The project main aim is to create a DICE game in VHDL and the implementation to 
 
 The implementation of the number DICE game enables us to further the understanding of RTL design, system level optimization, input & output interfaces, and digital hardware development. However this enables us to gain insight as to how these designs can be translated into hardware implementation or in our case hardware implementation via simulation
 
-# Test
+# Test Bench
 
 There is project in the folder named DiceGame which has all the component files. After compiling the project in ModelSim. 
 Following commands can used to simulate the components and Controller. This step is only if you want to preload the file with all parametrs 
